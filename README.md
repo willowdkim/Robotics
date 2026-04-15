@@ -7,7 +7,7 @@ I’m using Webots (a realistic simulation environment) to develop skills in
 - bridging simulation to realworld systems
 - learning and applying concepts through hands on work
 
-All progress is documented daily through screen recordings and experiments.
+All progress is documented through screen recordings and experiments.
 
 ## What this represents
 
