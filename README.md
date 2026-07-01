@@ -1,12 +1,12 @@
 # Robotics Simulation — Webots
 
-> Building toward human-centered medical and wearable technology through robotics simulation.
+> Learning control systems through robotics simulation.
 
 ---
 
 ## Goal
 
-This repository is part of my long-term goal of building robotics systems for real-world impact.
+This repository is part of my long-term goal of building robotics systems.
 
 I'm using [Webots](https://cyberbotics.com/) (a physics-based simulation environment) to develop skills in below
 
@@ -27,7 +27,7 @@ Rather than a collection of finished projects, this is a record of
 
 I want to build human-centered medical and wearable technology. Systems that interact with the human body, support people physically or neurologically, and make healthcare more accessible and personalized.
 
-## Focus Area
+## Areas of Interest
 
 - **MedTech robotics** surgical systems, assistive devices
 - **Wearable bio-interfaces** sensors, signal processing, embedded hardware
